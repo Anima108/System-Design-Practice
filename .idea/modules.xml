@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API rate Limiter/API rate Limiter.iml" filepath="$PROJECT_DIR$/API rate Limiter/API rate Limiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ATM machine/ATM machine.iml" filepath="$PROJECT_DIR$/ATM machine/ATM machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlipBidder/FlipBidder.iml" filepath="$PROJECT_DIR$/FlipBidder/FlipBidder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jira/Jira.iml" filepath="$PROJECT_DIR$/Jira/Jira.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resources/Resources.iml" filepath="$PROJECT_DIR$/Resources/Resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snake and Ladder/Snake and Ladder.iml" filepath="$PROJECT_DIR$/Snake and Ladder/Snake and Ladder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Splitwise/Splitwise.iml" filepath="$PROJECT_DIR$/Splitwise/Splitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sports fantasy app/Sports fantasy app.iml" filepath="$PROJECT_DIR$/Sports fantasy app/Sports fantasy app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stock Brokering System/Stock Brokering System.iml" filepath="$PROJECT_DIR$/Stock Brokering System/Stock Brokering System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/System-Design-Practice.iml" filepath="$PROJECT_DIR$/.idea/System-Design-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vending machine/vending machine.iml" filepath="$PROJECT_DIR$/vending machine/vending machine.iml" />
+    </modules>
+  </component>
+</project>
